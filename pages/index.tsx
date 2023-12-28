@@ -42,26 +42,26 @@ const Home: NextPage = () => {
             </svg>
             krisrang
           </a>
-          <a href="https://www.last.fm/user/nightowl_ovo" className="my-2 font-medium flex items-center">
+          <a href="https://www.last.fm/user/bamdokki" className="my-2 font-medium flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" className="mr-2 w-6 h-6">
               <path d="M8.574 14.576c-.477.348-1.455 1.024-3.381 1.024C2.532 15.6 0 13.707 0 10.195 0 6.547 2.637 4.4 5.354 4.4c3.047 0 4.183 1.108 5.144 4.109l.756 2.309c.551 1.688 1.713 2.91 4.026 2.91 1.558 0 2.382-.346 2.382-1.199 0-.67-.389-1.156-1.557-1.434l-1.559-.369c-1.9-.461-2.656-1.455-2.656-3.025 0-2.516 2.016-3.301 4.077-3.301 2.337 0 3.757.854 3.94 2.932l-2.291.277c-.092-.992-.688-1.408-1.787-1.408-1.008 0-1.627.461-1.627 1.246 0 .693.299 1.109 1.307 1.34l1.466.324c1.97.461 3.025 1.432 3.025 3.303 0 2.309-1.924 3.186-4.766 3.186-3.963 0-5.338-1.801-6.07-4.041L8.43 9.25c-.549-1.687-.99-2.902-3.006-2.902-1.398 0-3.219.916-3.219 3.756 0 2.217 1.523 3.604 3.104 3.604 1.34 0 2.146-.754 2.564-1.131l.701 1.999z" />
             </svg>
-            올빼미
+            밤도깨비
           </a>
-          <a href="https://steamcommunity.com/id/nightowl_ovo" className="my-2 font-medium flex items-center">
+          <a href="https://steamcommunity.com/id/bamdokki" className="my-2 font-medium flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" className="mr-2 w-6 h-6">
               <path d="M11 4.5a1.5 1.5 0 1 1 3.001.001A1.5 1.5 0 0 1 11 4.5zm3.975-2.475A3.5 3.5 0 0 0 9.036 4L5.838 8.847c-.43.022-.856.132-1.249.328L2.122 7.247A1.313 1.313 0 0 0 .506 9.315l2.436 1.905a3.157 3.157 0 1 0 6.168.228l3.891-3.484a3.5 3.5 0 0 0 1.975-5.939zM6 14.105A2.105 2.105 0 0 1 3.895 12l.001-.033 1.046.817a1.31 1.31 0 0 0 1.616-2.068l-.992-.776A2.105 2.105 0 1 1 6 14.105zM12.5 7a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z" />
             </svg>
-            올빼미
+            밤도깨비
           </a>
-          <a href="https://goodreads.com/nightowl_ovo" className="my-2 font-medium flex items-center">
+          <a href="https://goodreads.com/bamdokki" className="my-2 font-medium flex items-center">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" className="mr-2 w-6 h-6">
               <path
                 className="heroicon-ui"
                 d="M7 5H5v14h14V5h-2v10a1 1 0 0 1-1.45.9L12 14.11l-3.55 1.77A1 1 0 0 1 7 15V5zM5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2zm4 2v8.38l2.55-1.27a1 1 0 0 1 .9 0L15 13.38V5H9z"
               />
             </svg>
-            올빼미
+            밤도깨비
           </a>
         </div>
       </main>
