@@ -19,8 +19,7 @@ const Home: NextPage = () => {
         </h1>
 
         <ul className="pt-8 text-base italic font-medium flex-1 md:pt-12 md:text-lg">
-          <li>✓ Full stack web developer</li>
-          <li>✓ Ruby, JavaScript, Go, C# developer</li>
+          <li>✓ Full stack web developer - Ruby, JavaScript, Go, C#</li>
           <li>✓ Part time sysadmin and devops</li>
           <li>✓ Cat enthusiast</li>
         </ul>
